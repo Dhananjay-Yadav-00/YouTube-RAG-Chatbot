@@ -1,0 +1,10 @@
+google-api-python-client
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+google-generativeai
+python-dateutil
+streamlit
+python-dotenv
+groq
